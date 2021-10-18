@@ -11,24 +11,9 @@ Bibtex:
 author = {Schuler, Joao and Romaní, Santiago and Abdel-nasser, Mohamed and Rashwan, Hatem and Puig, Domenec},
 year = {2021},
 month = {10},
-pages = {},
+pages = {383-391},
 title = {Grouped Pointwise Convolutions Significantly Reduces Parameters in EfficientNet},
 isbn = {9781643682105},
 doi = {10.3233/FAIA210158}
 }
-```
-RIS:
-```
-TY  - CHAP
-AU  - Schuler, Joao
-AU  - Romaní, Santiago
-AU  - Abdel-nasser, Mohamed
-AU  - Rashwan, Hatem
-AU  - Puig, Domenec
-PY  - 2021/10/14
-SP  - 
-SN  - 9781643682105
-T1  - Grouped Pointwise Convolutions Significantly Reduces Parameters in EfficientNet
-DO  - 10.3233/FAIA210158
-ER  - 
 ```

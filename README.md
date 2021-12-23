@@ -19,3 +19,8 @@ isbn = {9781643682105},
 doi = {10.3233/FAIA210158}
 }
 ```
+
+## Test on Colab
+You can test kEffNet on Google Colab:
+* [kEffNet v1.](https://colab.research.google.com/github/joaopauloschuler/k-neural-api/blob/master/examples/jupyter/kEffNet_v1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaopauloschuler/k-neural-api/blob/master/examples/jupyter/kEffNet_v1.ipynb)
+

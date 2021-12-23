@@ -9,7 +9,7 @@ EfficientNet is a recent Deep Convolutional Neural Network (DCNN) architecture i
 ## Citing this Paper 
 Bibtex:
 ```
-@inbook{inbook,
+@inbook{Schuler2021k01,
 author = {Schuler, Joao and Romaní, Santiago and Abdel-nasser, Mohamed and Rashwan, Hatem and Puig, Domenec},
 year = {2021},
 month = {10},

@@ -1,5 +1,3 @@
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/grouped-pointwise-convolutions-significantly/image-classification-on-cifar-10)](https://paperswithcode.com/sota/image-classification-on-cifar-10?p=grouped-pointwise-convolutions-significantly)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/grouped-pointwise-convolutions-significantly/image-classification-on-oxford-iiit-pets)](https://paperswithcode.com/sota/image-classification-on-oxford-iiit-pets?p=grouped-pointwise-convolutions-significantly)
 # kEffNet
 This repository contains the source code for the paper [Grouped Pointwise Convolutions Significantly Reduces Parameters in EfficientNet](https://www.researchgate.net/publication/355214501_Grouped_Pointwise_Convolutions_Significantly_Reduces_Parameters_in_EfficientNet) [(PDF)](https://github.com/joaopauloschuler/kEffNet/blob/main/Grouped%20Pointwise%20Convolutions%20Significantly%20Reduces%20Parameters%20in%20EfficientNet.pdf) by Joao Paulo Schwarz Schuler, Santiago Romani, Mohamed Abdel-Nasser, Hatem Rashwan and Domenec Puig.
 

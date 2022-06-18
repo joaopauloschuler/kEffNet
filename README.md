@@ -13,6 +13,8 @@ year = {2021},
 month = {10},
 pages = {383-391},
 title = {Grouped Pointwise Convolutions Significantly Reduces Parameters in EfficientNet},
+booktitle = {Artificial Intelligence Research and Development},
+publisher = {IOS Press},
 isbn = {9781643682105},
 doi = {10.3233/FAIA210158}
 }

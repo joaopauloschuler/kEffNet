@@ -8,7 +8,7 @@ EfficientNet is a recent Deep Convolutional Neural Network (DCNN) architecture i
 You can test kEffNet on Google Colab:
 * [kEffNet v1.](https://colab.research.google.com/github/joaopauloschuler/k-neural-api/blob/master/examples/jupyter/kEffNet_v1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaopauloschuler/k-neural-api/blob/master/examples/jupyter/kEffNet_v1.ipynb)
 
-## Prerequisites
+## Prerequisite
 All examples in this project require importing the [K-CAI Neural API](https://github.com/joaopauloschuler/k-neural-api).
 
 ## Give this Project a Star
